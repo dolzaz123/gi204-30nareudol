@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "git204-30nareudol.sln"
+    "dotnet.defaultSolution": "gi204-30nareudol.sln"
 }
